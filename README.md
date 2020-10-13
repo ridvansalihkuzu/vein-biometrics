@@ -6,12 +6,12 @@ For further details, please refer to:
 <a id="1">[1]</a> 
 Kuzu, Rıdvan S., Maiorana, E. and Campisi, P. (2020), 
 [Loss Functions for CNN-based
-Biometric Vein Recognition](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0000750.pdf), 28th European Signal Processing Conference (EUSIPCO 2020)
+Biometric Vein Recognition](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0000750.pdf), in 28th European Signal Processing Conference (EUSIPCO 2020)
 
 <a id="2">[2]</a> 
 Kuzu, Rıdvan S., Maiorana, E. and Campisi, P. (2020), 
 [Vein-based Biometric Verification
-using Transfer Learning](https://ieeexplore.ieee.org/document/9163491), 43rd International Conference on Telecommunications and Signal Processing (TSP), pp. 403-409
+using Transfer Learning](https://ieeexplore.ieee.org/document/9163491), in 43rd International Conference on Telecommunications and Signal Processing (TSP), pp. 403-409
 
 <a id="3">[3]</a> 
 Kuzu, Rıdvan S., Piciucco, E., Maiorana, E. and Campisi, P. (2020), 
