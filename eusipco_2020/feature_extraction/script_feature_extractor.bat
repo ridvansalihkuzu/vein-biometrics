@@ -1,0 +1,1 @@
+python -m feature_extraction.feature_extractor --image-dir feature_extraction/middle_5.bmp --out-dir feature_extraction/middle_5.dat --model-dir modeldir/03-aamp

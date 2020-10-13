@@ -1,0 +1,25 @@
+python -m benchmark_verification.main_train_CNN --weight-decay 0.0010 --learning-rate 0.010  --margin 0.4 --scale 16 --type aamp --embedding-size 1024 --outdir modeldir/00/13/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.0010 --learning-rate 0.010  --margin 0.5 --scale 16 --type aamp --embedding-size 1024 --outdir modeldir/00/14/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.0010 --learning-rate 0.010  --margin 0.6 --scale 16 --type aamp --embedding-size 1024 --outdir modeldir/00/15/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.0010 --learning-rate 0.010  --margin 0.4 --scale 32 --type aamp --embedding-size 1024 --outdir modeldir/00/16/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.0010 --learning-rate 0.010  --margin 0.5 --scale 32 --type aamp --embedding-size 1024 --outdir modeldir/00/17/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.0010 --learning-rate 0.010  --margin 0.6 --scale 32 --type aamp --embedding-size 1024 --outdir modeldir/00/18/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.0010 --learning-rate 0.010  --margin 0.4 --scale 48 --type aamp --embedding-size 1024 --outdir modeldir/00/19/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.0010 --learning-rate 0.010  --margin 0.5 --scale 48 --type aamp --embedding-size 1024 --outdir modeldir/00/20/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.0010 --learning-rate 0.010  --margin 0.6 --scale 48 --type aamp --embedding-size 1024 --outdir modeldir/00/21/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.0010 --learning-rate 0.010  --margin 0.4 --scale 64 --type aamp --embedding-size 1024 --outdir modeldir/00/22/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.0010 --learning-rate 0.010  --margin 0.5 --scale 64 --type aamp --embedding-size 1024 --outdir modeldir/00/23/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.0010 --learning-rate 0.010  --margin 0.6 --scale 64 --type aamp --embedding-size 1024 --outdir modeldir/00/24/
+
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.0010  --margin 0.4 --scale 16 --type aamp --embedding-size 1024 --outdir modeldir/00/01/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.0010  --margin 0.5 --scale 16 --type aamp --embedding-size 1024 --outdir modeldir/00/02/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.0010  --margin 0.6 --scale 16 --type aamp --embedding-size 1024 --outdir modeldir/00/03/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.0010  --margin 0.4 --scale 32 --type aamp --embedding-size 1024 --outdir modeldir/00/04/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.0010  --margin 0.5 --scale 32 --type aamp --embedding-size 1024 --outdir modeldir/00/05/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.0010  --margin 0.6 --scale 32 --type aamp --embedding-size 1024 --outdir modeldir/00/06/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.0010  --margin 0.4 --scale 48 --type aamp --embedding-size 1024 --outdir modeldir/00/07/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.0010  --margin 0.5 --scale 48 --type aamp --embedding-size 1024 --outdir modeldir/00/08/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.0010  --margin 0.6 --scale 48 --type aamp --embedding-size 1024 --outdir modeldir/00/09/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.0010  --margin 0.4 --scale 64 --type aamp --embedding-size 1024 --outdir modeldir/00/10/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.0010  --margin 0.5 --scale 64 --type aamp --embedding-size 1024 --outdir modeldir/00/11/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.0010  --margin 0.6 --scale 64 --type aamp --embedding-size 1024 --outdir modeldir/00/12/

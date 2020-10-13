@@ -1,0 +1,25 @@
+python -m benchmark_verification.main_train_CNN --weight-decay 0.010 --learning-rate 0.010  --margin 0.4 --scale 16 --type aamp --embedding-size 1024 --outdir modeldir/01/01/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.010 --learning-rate 0.010  --margin 0.5 --scale 16 --type aamp --embedding-size 1024 --outdir modeldir/01/02/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.010 --learning-rate 0.010  --margin 0.6 --scale 16 --type aamp --embedding-size 1024 --outdir modeldir/01/03/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.010 --learning-rate 0.010  --margin 0.4 --scale 32 --type aamp --embedding-size 1024 --outdir modeldir/01/04/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.010 --learning-rate 0.010  --margin 0.5 --scale 32 --type aamp --embedding-size 1024 --outdir modeldir/01/05/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.010 --learning-rate 0.010  --margin 0.6 --scale 32 --type aamp --embedding-size 1024 --outdir modeldir/01/06/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.010 --learning-rate 0.010  --margin 0.4 --scale 48 --type aamp --embedding-size 1024 --outdir modeldir/01/07/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.010 --learning-rate 0.010  --margin 0.5 --scale 48 --type aamp --embedding-size 1024 --outdir modeldir/01/08/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.010 --learning-rate 0.010  --margin 0.6 --scale 48 --type aamp --embedding-size 1024 --outdir modeldir/01/09/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.010 --learning-rate 0.010  --margin 0.4 --scale 64 --type aamp --embedding-size 1024 --outdir modeldir/01/10/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.010 --learning-rate 0.010  --margin 0.5 --scale 64 --type aamp --embedding-size 1024 --outdir modeldir/01/11/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.010 --learning-rate 0.010  --margin 0.6 --scale 64 --type aamp --embedding-size 1024 --outdir modeldir/01/12/
+
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.010  --margin 0.4 --scale 16 --type aamp --embedding-size 1024 --outdir modeldir/01/21/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.010  --margin 0.5 --scale 16 --type aamp --embedding-size 1024 --outdir modeldir/01/22/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.010  --margin 0.6 --scale 16 --type aamp --embedding-size 1024 --outdir modeldir/01/23/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.010  --margin 0.4 --scale 32 --type aamp --embedding-size 1024 --outdir modeldir/01/24/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.010  --margin 0.5 --scale 32 --type aamp --embedding-size 1024 --outdir modeldir/01/25/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.010  --margin 0.6 --scale 32 --type aamp --embedding-size 1024 --outdir modeldir/01/26/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.010  --margin 0.4 --scale 48 --type aamp --embedding-size 1024 --outdir modeldir/01/27/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.010  --margin 0.5 --scale 48 --type aamp --embedding-size 1024 --outdir modeldir/01/28/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.010  --margin 0.6 --scale 48 --type aamp --embedding-size 1024 --outdir modeldir/01/29/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.010  --margin 0.4 --scale 64 --type aamp --embedding-size 1024 --outdir modeldir/01/30/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.010  --margin 0.5 --scale 64 --type aamp --embedding-size 1024 --outdir modeldir/01/31/
+python -m benchmark_verification.main_train_CNN --weight-decay 0.10 --learning-rate 0.010  --margin 0.6 --scale 64 --type aamp --embedding-size 1024 --outdir modeldir/01/32/

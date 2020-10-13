@@ -1,0 +1,2 @@
+sudo docker run -it --init --rm --shm-size=16386m --gpus device=1 -v "/home/biomedia4n6/Public/ridvan/vein_encoder:/app" pytorch bash "verification_trainer/script_train_CNN_0.bat"
+sudo docker run -it --init --rm --shm-size=16386m --gpus device=1 -v "/home/biomedia4n6/Public/ridvan/vein_encoder:/app" pytorch bash "autoencoders/main_0.bat"
