@@ -3,7 +3,10 @@ A State-of-the-art solution for finger-vein, palm-vein, dorsal-vein recognition 
 
 For further details, please refer to:
 
-[Loss Functions for CNN-based
+[<a id="1">[1]</a> 
+Dijkstra, E. W. (1968). 
+Go to statement considered harmful. 
+Communications of the ACM, 11(3), 147-148.Loss Functions for CNN-based
 Biometric Vein Recognition](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0000750.pdf)
 
 [Vein-based Biometric Verification
