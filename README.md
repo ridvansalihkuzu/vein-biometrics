@@ -18,14 +18,10 @@ Kuzu, Rıdvan S., Maiorana, E. and Campisi, P. (2020),
 
 
 <a id="4">[4]</a> 
-Kuzu, Rıdvan S., Maiorana, E. and Campisi, P. (2021), 
-[Loss Functions for CNN-based
-Biometric Vein Recognition](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0000750.pdf), in 28th European Signal Processing Conference (EUSIPCO 2020), pp. 750-754.
+Kuzu, Rıdvan S., Maiorana, E. and Campisi, P. (2021), [Loss Functions for CNN-based Biometric Vein Recognition](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0000750.pdf), in 28th European Signal Processing Conference (EUSIPCO 2020), pp. 750-754.
 
 <a id="5">[5]</a> 
-Kuzu, Rıdvan S., Maiorana, E. and Campisi, P. (2022), 
-[On the Intra-subject Similarity of Hand Vein Patterns in Biometric Recognition]([https://ieeexplore.ieee.org/abstract/document/8979362](https://www.sciencedirect.com/science/article/abs/pii/S0957417421016080)), in Expert Systems with Applications, 192, p.116305., doi: 10.1016/j.eswa.2021.116305.
+Kuzu, Rıdvan S., Maiorana, E. and Campisi, P. (2022),[On the Intra-subject Similarity of Hand Vein Patterns in Biometric Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0957417421016080), in Expert Systems with Applications, 192, p.116305., doi: 10.1016/j.eswa.2021.116305.
 
 <a id="6">[6]</a> 
-Kuzu, Rıdvan S., Maiorana, E. and Campisi, P. (2023),  
-[Gender-Specific Characteristics for Hand-Vein Biometric Recognition: Analysis and Exploitation](https://ieeexplore.ieee.org/document/10026351), in IEEE Access, vol. 11, pp. 11700-11710, 2023, doi: 10.1109/ACCESS.2023.3239894.
+Kuzu, Rıdvan S., Maiorana, E. and Campisi, P. (2023),[Gender-Specific Characteristics for Hand-Vein Biometric Recognition: Analysis and Exploitation](https://ieeexplore.ieee.org/document/10026351), in IEEE Access, vol. 11, pp. 11700-11710, 2023, doi: 10.1109/ACCESS.2023.3239894.
