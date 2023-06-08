@@ -1,5 +1,5 @@
 # Vein Biometrics
-A State-of-the-art solution for finger-vein, palm-vein, dorsal-vein recognition by using deep learning techniques. 
+**A State-of-the-art solution for finger-vein, palm-vein, dorsal-vein recognition by using deep learning techniques: **
 
 For the further details, please refer to:
 
