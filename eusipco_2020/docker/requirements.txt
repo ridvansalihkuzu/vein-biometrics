@@ -9,6 +9,6 @@ hypothesis==4.50.7
 tabulate==0.8.6
 pydot==1.4.1
 boto3==1.10.35
-future==0.18.2
+future==0.18.3
 Cython==0.29.14
 imgaug==0.3.0
